@@ -17,7 +17,6 @@ const {
     proto
 } = require('@whiskeysockets/baileys')
 
-const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson } = require('./lib/functions')
 const fs = require('fs')
 const path = require('path')
 const AdmZip = require('adm-zip')
@@ -26,7 +25,6 @@ const NodeCache = require('node-cache')
 const config = require('./config')
 const qrcode = require('qrcode-terminal')
 const util = require('util')
-const { sms, downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
@@ -114,6 +112,10 @@ const port = process.env.PORT || 7860;
 async function connectToWA() {  
     
 await downloadAndExtractZip(); 
+    
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson } = require('./lib/functions')
+const { sms, downloadMediaMessage } = require('./lib/msg')
+
 console.log("CONNECTING SANDES MD 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
