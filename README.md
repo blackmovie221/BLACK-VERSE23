@@ -2,17 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
 
-<!-- Brand Logo -->
 <a href="https://sandes-md.zone.id">
   <img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" alt="Brand Logo" width="700px">
 </a>
 
-<!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🔮+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration+UI;🧨+Eazy+%26+For+any+user+to+Use&gradient=true" alt="Typing Animation">
 </p>
 
-<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v5.0.0-4169E1?style=for-the-badge&logo=semver&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-2ECC71?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
@@ -27,7 +24,6 @@
   <img src="https://img.shields.io/github/contributors/isurahupa-tech/SANDES-MD-V2?style=for-the-badge&logo=github&color=8E44AD">
 </p>
 
-<!-- Fork & Session Buttons -->
 <div align="center" style="margin:30px 0;">
   <p><b>🍴 Fork The Repository</b></p>
   <a href="https://github.com/" target="_blank">
@@ -41,7 +37,6 @@
   </a>
 </div>
 
-<!-- Features Section -->
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px; margin-top:25px;">
   <div style="background:#6A0DAD; color:white; padding:25px; border-radius:20px; width:270px; box-shadow:0px 8px 20px rgba(0,0,0,0.25); transition:0.3s; font-size:15px; text-align:center;">
     <h3>Lightning Fast ⚡</h3>
@@ -57,7 +52,6 @@
   </div>
 </div>
 
-<!-- Deploy Section -->
 <div align="center" style="margin-top:40px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now+🦋;+No+Coding+Required+💢;🎀+Run+Your+Bot+Now&gradient=true" alt="Deploy Banner">
   <br><br>
@@ -109,7 +103,6 @@ MR.SANDES 🍒 — the lead developer of this project.
 <sub><b>MR.SANDES 🍒</b></sub>
 </a>
 </td>
-<!-- Footer -->
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
